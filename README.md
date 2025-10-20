@@ -1,4 +1,4 @@
-# PLP Task Manager - React Application
+# Sylvester Task Manager - React Application
 
 A modern, responsive React task management application built with Vite, Tailwind CSS, and React Hooks. This application demonstrates component architecture, state management, API integration, and responsive design.
 
@@ -44,7 +44,8 @@ A modern, responsive React task management application built with Vite, Tailwind
 ### Dark Mode
 ![Dark Mode](./screenshot/darkmode.jpeg)
 
-
+## Deployed live in github at 
+[https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-Dubleu-x/]
 
 
 ## 🛠️ Technology Stack
